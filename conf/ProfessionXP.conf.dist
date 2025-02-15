@@ -1,0 +1,52 @@
+[worldserver]
+
+#
+########################################
+
+########################################
+#
+#    ProfessionXP.Enable
+#        Default:     0 - Disabled
+#                     1 - Enabled
+#
+
+ProfessionXP.Enable = 1
+
+#
+#    ProfessionXP.AnnounceOnLogin
+#        Default:     0 - Disabled
+#                     1 - Enabled
+#
+
+ProfessionXP.AnnounceOnLogin = 1
+
+#
+#    ProfessionXP.Rate
+#        Default:     50 %
+#
+
+ProfessionXP.Rate = 0.50
+
+#
+#    ProfessionXP.OnCraft
+#        Default:     0 - Disabled
+#                     1 - Enabled
+#
+
+ProfessionXP.OnCraft = 1 
+
+#
+#    ProfessionXP.OnGather
+#        Default:     0 - Disabled
+#                     1 - Enabled
+#
+
+ProfessionXP.OnGather = 1
+
+#
+#    ProfessionXP.OnFish
+#        Default:     0 - Disabled
+#                     1 - Enabled
+#
+
+ProfessionXP.OnFish = 1
